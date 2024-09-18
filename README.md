@@ -32,14 +32,7 @@
 ● Function scope
 
 # Basic Concepts:
-1. What is the difference between null and undefined?
- ANS :Difference Between null and undefined:
-  undefined: A variable that has been declared but not yet assigned a value is undefined. It is the default value for uninitialized variables and function parameters.
-  <a href="Basic_Concepts/1.js">Example</a>
-  null: A variable explicitly assigned null is considered to be empty or non-existent. It’s an intentional absence of value, often used to signify that a variable should be empty or is yet to be filled.  
-  <a href="Basic_Concepts/1.js">Example</a>
-
-  
+1. What is the difference between null and undefined?   <a href="Basic_Concepts/1.js">Example</a> 
 2. Explain the concept of hoisting in JavaScript.
 3. What are the primitive data types in JavaScript?
 4. How does type coercion work in JavaScript?
