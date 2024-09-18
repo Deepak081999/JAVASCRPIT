@@ -25,5 +25,4 @@ let y = null;
 console.log(y); // null
 
 
-<img src="img\undefine&null.jpg" alt="Mountain View" style="width:304px;height:228px;" />
 
