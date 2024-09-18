@@ -33,7 +33,7 @@
 
 # Basic Concepts:
 1. What is the difference between null and undefined?   <a href="Basic_Concepts/1.js">Example</a> AND
-<img src="img\undefine&null.jpg" alt="Mountain View" style="width:304px;height:228px;" >difference between null and undefined</img>
+<img src="img\undefine_null.jpg" alt="Mountain View" style="width:304px;height:228px;" >difference between null and undefined</img>
 2. Explain the concept of hoisting in JavaScript.
 3. What are the primitive data types in JavaScript?
 4. How does type coercion work in JavaScript?
