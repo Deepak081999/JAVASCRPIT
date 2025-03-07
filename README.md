@@ -3,6 +3,53 @@
 
 ### Table of Contents
 
+<table>
+  <tr>
+    <th>No.</th>
+    <th>Questions</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><a href="#what-are-the-possible-ways-to-create-objects-in-javascript">What are the possible ways to create objects in JavaScript?</a></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><a href="#what-is-a-prototype-chain">What is a prototype chain?</a></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><a href="#what-is-the-difference-between-call-apply-and-bind">What is the difference between Call, Apply, and Bind?</a></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td><a href="#what-is-json-and-its-common-operations">What is JSON and its common operations?</a></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td><a href="#what-is-the-purpose-of-the-array-slice-method">What is the purpose of the array slice method?</a></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td><a href="#what-is-the-purpose-of-the-array-splice-method">What is the purpose of the array splice method?</a></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td><a href="#what-is-the-difference-between-slice-and-splice">What is the difference between slice and splice?</a></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td><a href="#how-do-you-compare-object-and-map">How do you compare Object and Map?</a></td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td><a href="#what-is-the-difference-between--and--operators">What is the difference between == and === operators?</a></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td><a href="#what-are-lambda-expressions-or-arrow-functions">What are lambda expressions or arrow functions?</a></td>
+  </tr>
+</table>
+
 <!-- TOC_START -->
 | No. | Questions |
 | --- | --------- |
